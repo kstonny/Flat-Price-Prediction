@@ -1,0 +1,47 @@
+autopep8==1.5.4
+backcall==0.2.0
+certifi==2020.12.5
+click==7.1.2
+cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
+colorama==0.4.4
+cycler==0.10.0
+decorator==4.4.2
+Flask==1.1.2
+ipykernel==5.4.3
+ipython==7.19.0
+ipython-genutils==0.2.0
+itsdangerous==1.1.0
+jedi==0.17.0
+Jinja2==2.11.3
+joblib==1.0.1
+jupyter-client==6.1.11
+jupyter-core==4.7.0
+kiwisolver==1.3.1
+MarkupSafe==1.1.1
+matplotlib==3.3.4
+numpy==1.20.1
+pandas==1.2.2
+parso @ file:///tmp/build/80754af9/parso_1607623074025/work
+pickleshare==0.7.5
+Pillow==8.1.1
+prompt-toolkit==3.0.10
+pycodestyle==2.6.0
+Pygments==2.7.4
+pyparsing==2.4.7
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz==2021.1
+pywin32==300
+pyzmq==21.0.1
+scikit-learn==0.24.1
+scipy==1.6.1
+seaborn==0.11.1
+six @ file:///C:/ci/six_1605187374963/work
+sklearn==0.0
+spyder-kernels @ file:///C:/ci/spyder-kernels_1614030842607/work
+threadpoolctl==2.1.0
+toml==0.10.2
+tornado==6.1
+traitlets==5.0.5
+wcwidth==0.2.5
+Werkzeug==1.0.1
+wincertstore==0.2
